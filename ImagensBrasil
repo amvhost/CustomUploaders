@@ -1,0 +1,16 @@
+{
+  "Name": "ImagensBrasil",
+  "RequestType": "POST",
+  "RequestURL": "http://www.imagensbrasil.org/api/1/upload",
+  "FileFormName": "source",
+  "Arguments": {
+    "key": "9c9dfe77cd3bdbaa7220c6bbaf7452e7",
+    "format": "redirect",
+    "source": "%input"
+  },
+  "ResponseType": "RedirectionURL",
+  "RegexList": [],
+  "URL": "",
+  "ThumbnailURL": "",
+  "DeletionURL": ""
+}
